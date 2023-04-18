@@ -1,0 +1,9 @@
+USING SCAN PRESET: accurate
+-- init_len:5; flip_operations:2 --
+
+-- : [3, 2, 4, 5, 1]
+4  : [5, 4, 2, 3]
+3  : [2, 4, 5]
+PUWE: 2
+
+ time: 0.001s

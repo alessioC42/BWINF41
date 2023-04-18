@@ -1,0 +1,10 @@
+USING SCAN PRESET: fast
+-- init_len:5; flip_operations:3 --
+
+-- : [3, 2, 4, 5, 1]
+0  : [2, 4, 5, 1]
+2  : [4, 2, 1]
+2  : [2, 4]
+PUWE: 3
+
+ time: 0.003s
