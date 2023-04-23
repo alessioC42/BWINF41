@@ -1,5 +1,5 @@
 # BWINF41
-My solutions for the BWINF14
+My solutions for the BWINF41
 
 J1: 5/5
 
